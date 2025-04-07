@@ -834,36 +834,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_0: 4418115340051881891
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_1: 6055817289897646563
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_10: 2187787272294222402
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_11: -8936794904164345635
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_12: 8520581872962629672
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_13: 9219605145396004929
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_14: 2258091615063066488
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_15: -1691367276372452238
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_16: 7559584805679683428
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_17: -8132945988794685781
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_18: -1345026262775936753
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_19: 830848087130847947
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_2: -8110445354598321102
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_20: -8113139157890018727
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_21: 1029234541726901590
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_22: 291478170877961956
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_23: 5235205549166662754
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_24: 7576315913676972565
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_25: 9100153080510844267
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_26: 6373425376254180945
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_27: 8409874919294624711
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_28: -6860319382817732415
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_3: 1226867481287036673
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_4: -1279739282044425536
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_5: -2465169792933094495
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_6: -3139266248003944032
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_7: -8209313263025163675
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_8: -2987871783801989091
-      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_9: 5190458373150293971
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

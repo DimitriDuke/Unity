@@ -759,33 +759,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      shroomish_0: 2202407051812141541
-      shroomish_1: -8168888728730969489
-      shroomish_10: -7229324174285953539
-      shroomish_11: 983768379676894516
-      shroomish_12: -2454917839894419159
-      shroomish_13: -5723636957431988668
-      shroomish_14: -708791412800966396
-      shroomish_15: 5965049189716285939
-      shroomish_16: -8865988172487766079
-      shroomish_17: 1920893033731101428
-      shroomish_18: -1301985969462007916
-      shroomish_19: 8272359995676580699
-      shroomish_2: 5078551449467556296
-      shroomish_20: -89305410481216707
-      shroomish_21: 8230255703370511326
-      shroomish_22: -2401088795731663621
-      shroomish_23: 6935047081366410857
-      shroomish_24: 2114408801022065748
-      shroomish_25: 5573641402595778069
-      shroomish_3: -8207598539661810671
-      shroomish_4: -4559616463927924389
-      shroomish_5: -2775199902170671179
-      shroomish_6: 1478943682983040227
-      shroomish_7: 3944717268948485996
-      shroomish_8: -3791028261541938824
-      shroomish_9: -1953729254453852400
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: a1cdaccf14c3fd84e85c1ba1840fc028
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7386303152212961787
+    second: PC Computer - MapleStory - Dragon Road Tiles_0
+  - first:
+      213: 8183934025063225174
+    second: PC Computer - MapleStory - Dragon Road Tiles_1
+  - first:
+      213: -8249869652094276812
+    second: PC Computer - MapleStory - Dragon Road Tiles_2
+  - first:
+      213: -1708860951800711961
+    second: PC Computer - MapleStory - Dragon Road Tiles_3
+  - first:
+      213: -3850864975763131008
+    second: PC Computer - MapleStory - Dragon Road Tiles_4
+  - first:
+      213: 7491428817967267825
+    second: PC Computer - MapleStory - Dragon Road Tiles_5
+  - first:
+      213: -1842565814353246104
+    second: PC Computer - MapleStory - Dragon Road Tiles_6
+  - first:
+      213: 7907374168912700493
+    second: PC Computer - MapleStory - Dragon Road Tiles_7
+  - first:
+      213: -2986348841773175240
+    second: PC Computer - MapleStory - Dragon Road Tiles_8
+  - first:
+      213: 8833405843148866695
+    second: PC Computer - MapleStory - Dragon Road Tiles_9
+  - first:
+      213: 8684501979391066667
+    second: PC Computer - MapleStory - Dragon Road Tiles_10
+  - first:
+      213: -1343264021001721201
+    second: PC Computer - MapleStory - Dragon Road Tiles_11
+  - first:
+      213: 3875504560756341582
+    second: PC Computer - MapleStory - Dragon Road Tiles_12
+  - first:
+      213: 8058539195208170549
+    second: PC Computer - MapleStory - Dragon Road Tiles_13
+  - first:
+      213: -2254141813920311764
+    second: PC Computer - MapleStory - Dragon Road Tiles_14
+  - first:
+      213: -6062382427742153896
+    second: PC Computer - MapleStory - Dragon Road Tiles_15
+  - first:
+      213: 1787648855893372529
+    second: PC Computer - MapleStory - Dragon Road Tiles_16
+  - first:
+      213: -704207537046620112
+    second: PC Computer - MapleStory - Dragon Road Tiles_17
+  - first:
+      213: -6905515985859702599
+    second: PC Computer - MapleStory - Dragon Road Tiles_18
+  - first:
+      213: -8521407964503063142
+    second: PC Computer - MapleStory - Dragon Road Tiles_19
+  - first:
+      213: 3012405068791317603
+    second: PC Computer - MapleStory - Dragon Road Tiles_20
+  - first:
+      213: -3818799715679127259
+    second: PC Computer - MapleStory - Dragon Road Tiles_21
+  - first:
+      213: -6015243235223822198
+    second: PC Computer - MapleStory - Dragon Road Tiles_22
+  - first:
+      213: 7880789470720063832
+    second: PC Computer - MapleStory - Dragon Road Tiles_23
+  - first:
+      213: 8080215899851832651
+    second: PC Computer - MapleStory - Dragon Road Tiles_24
+  - first:
+      213: -3302998911153378611
+    second: PC Computer - MapleStory - Dragon Road Tiles_25
+  - first:
+      213: -9146948152571939792
+    second: PC Computer - MapleStory - Dragon Road Tiles_26
+  - first:
+      213: 2103247926705996579
+    second: PC Computer - MapleStory - Dragon Road Tiles_27
+  - first:
+      213: 5256494285124552048
+    second: PC Computer - MapleStory - Dragon Road Tiles_28
+  - first:
+      213: 2642132729275709697
+    second: PC Computer - MapleStory - Dragon Road Tiles_29
+  - first:
+      213: 2672579493498879803
+    second: PC Computer - MapleStory - Dragon Road Tiles_30
+  - first:
+      213: 2445333235959380080
+    second: PC Computer - MapleStory - Dragon Road Tiles_31
+  - first:
+      213: -5939048858209971562
+    second: PC Computer - MapleStory - Dragon Road Tiles_32
+  - first:
+      213: -364046370738660431
+    second: PC Computer - MapleStory - Dragon Road Tiles_33
+  - first:
+      213: -634343709725798065
+    second: PC Computer - MapleStory - Dragon Road Tiles_34
+  - first:
+      213: 6258497587707614691
+    second: PC Computer - MapleStory - Dragon Road Tiles_35
+  - first:
+      213: 182924989701695088
+    second: PC Computer - MapleStory - Dragon Road Tiles_36
+  - first:
+      213: -6023055783499501744
+    second: PC Computer - MapleStory - Dragon Road Tiles_37
+  - first:
+      213: 5014674378522733357
+    second: PC Computer - MapleStory - Dragon Road Tiles_38
+  - first:
+      213: 7502210702811702252
+    second: PC Computer - MapleStory - Dragon Road Tiles_39
+  - first:
+      213: -8060709945124845666
+    second: PC Computer - MapleStory - Dragon Road Tiles_40
+  - first:
+      213: 3124472939466046277
+    second: PC Computer - MapleStory - Dragon Road Tiles_41
+  - first:
+      213: -179225861653387016
+    second: PC Computer - MapleStory - Dragon Road Tiles_42
+  - first:
+      213: 368197351347828332
+    second: PC Computer - MapleStory - Dragon Road Tiles_43
+  - first:
+      213: 7061191553876494868
+    second: PC Computer - MapleStory - Dragon Road Tiles_44
+  - first:
+      213: -1962097539840904230
+    second: PC Computer - MapleStory - Dragon Road Tiles_45
+  - first:
+      213: 2902642880186319492
+    second: PC Computer - MapleStory - Dragon Road Tiles_46
+  - first:
+      213: 4301101715387887450
+    second: PC Computer - MapleStory - Dragon Road Tiles_47
+  - first:
+      213: -5413992245800026656
+    second: PC Computer - MapleStory - Dragon Road Tiles_48
+  - first:
+      213: -8884558019687313299
+    second: PC Computer - MapleStory - Dragon Road Tiles_49
+  - first:
+      213: -5248841469613440601
+    second: PC Computer - MapleStory - Dragon Road Tiles_50
+  - first:
+      213: -4128337114988790889
+    second: PC Computer - MapleStory - Dragon Road Tiles_51
+  - first:
+      213: 1832221811685760937
+    second: PC Computer - MapleStory - Dragon Road Tiles_52
+  - first:
+      213: 159161629079157410
+    second: PC Computer - MapleStory - Dragon Road Tiles_53
+  - first:
+      213: 325188804166490270
+    second: PC Computer - MapleStory - Dragon Road Tiles_54
+  - first:
+      213: -4835111953504285300
+    second: PC Computer - MapleStory - Dragon Road Tiles_55
+  - first:
+      213: -6055627894775981596
+    second: PC Computer - MapleStory - Dragon Road Tiles_56
+  - first:
+      213: 89023407474564590
+    second: PC Computer - MapleStory - Dragon Road Tiles_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 29
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 257
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf96007259b618660800000000000000
+      internalID: 7386303152212961787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 258
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657502da2ac239170800000000000000
+      internalID: 8183934025063225174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 258
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b25a7d243928d80800000000000000
+      internalID: -8249869652094276812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 258
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4f16da408e848e0800000000000000
+      internalID: -1708860951800711961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 258
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08535a115bafe8ac0800000000000000
+      internalID: -3850864975763131008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 258
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff301391d6e6f760800000000000000
+      internalID: 7491428817967267825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 213
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86842387724ed66e0800000000000000
+      internalID: -1842565814353246104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 215
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44242c59e2acbd60800000000000000
+      internalID: 7907374168912700493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 203
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ee5befc8b5e86d0800000000000000
+      internalID: -2986348841773175240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 203
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7848fbd10df869a70800000000000000
+      internalID: 8833405843148866695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 204
+        width: 90
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2208cca98c858870800000000000000
+      internalID: 8684501979391066667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 203
+        width: 90
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a21a46d74cb5de0800000000000000
+      internalID: -1343264021001721201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 203
+        width: 90
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bb94d5dde88c530800000000000000
+      internalID: 3875504560756341582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 151
+        width: 90
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cf1fab3bea5df60800000000000000
+      internalID: 8058539195208170549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 148
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26dce396fda7b0e0800000000000000
+      internalID: -2254141813920311764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 145
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853dbd54d471edba0800000000000000
+      internalID: -6062382427742153896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 123
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e68aeb9210fc810800000000000000
+      internalID: 1787648855893372529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 123
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038fe22e9f62a36f0800000000000000
+      internalID: -704207537046620112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 123
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b01d004ccdaa20a0800000000000000
+      internalID: -6905515985859702599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 123
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a954c99ca90edb980800000000000000
+      internalID: -8521407964503063142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 164
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36484ec13763ec920800000000000000
+      internalID: 3012405068791317603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 161
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529359634e5e00bc0800000000000000
+      internalID: -3818799715679127259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 161
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80a9eec520958ca0800000000000000
+      internalID: -6015243235223822198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 164
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85978e7f4403e5d60800000000000000
+      internalID: 7880789470720063832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 164
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4db123dc81b22070800000000000000
+      internalID: 8080215899851832651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 164
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca63378df36922d0800000000000000
+      internalID: -3302998911153378611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 161
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034b80b2e138f0180800000000000000
+      internalID: -9146948152571939792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 164
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32343e988dc303d10800000000000000
+      internalID: 2103247926705996579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 164
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07548b4c3b1d2f840800000000000000
+      internalID: 5256494285124552048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 161
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10979e9f7bdbaa420800000000000000
+      internalID: 2642132729275709697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 164
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f7effa3e8e61520800000000000000
+      internalID: 2672579493498879803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 164
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078b0d64f919fe120800000000000000
+      internalID: 2445333235959380080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 164
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69294b6a782449da0800000000000000
+      internalID: -5939048858209971562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 148
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb1a5e21c5a2faf0800000000000000
+      internalID: -364046370738660431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 148
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f415a44c1cb5237f0800000000000000
+      internalID: -634343709725798065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 148
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e593f6a566aad650800000000000000
+      internalID: 6258497587707614691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 148
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07626b71f41e98200800000000000000
+      internalID: 182924989701695088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 148
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f662a2daec96ca0800000000000000
+      internalID: -6023055783499501744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 145
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ba91447c3b79540800000000000000
+      internalID: 5014674378522733357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 145
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3a933c2e43d1860800000000000000
+      internalID: 7502210702811702252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 148
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97006b230b922090800000000000000
+      internalID: -8060709945124845666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 148
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bb133959b5c5b20800000000000000
+      internalID: 3124472939466046277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 148
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f826954703438df0800000000000000
+      internalID: -179225861653387016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 148
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66b35e4a891c1500800000000000000
+      internalID: 368197351347828332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 148
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a0cc37e446ef160800000000000000
+      internalID: 7061191553876494868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 132
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad37d13eeaa35c4e0800000000000000
+      internalID: -1962097539840904230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 132
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48282571252484820800000000000000
+      internalID: 2902642880186319492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 129
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fa480d83590bb30800000000000000
+      internalID: 4301101715387887450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 132
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edbe5cacb2add4b0800000000000000
+      internalID: -5413992245800026656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 132
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d609032bd85b3b480800000000000000
+      internalID: -8884558019687313299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 132
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a10a513e7e5827b0800000000000000
+      internalID: -5248841469613440601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 132
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b380c444335b6c0800000000000000
+      internalID: -4128337114988790889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 132
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af904bb70c5d6910800000000000000
+      internalID: 1832221811685760937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 68
+        width: 90
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aab22b88a4753200800000000000000
+      internalID: 159161629079157410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 21
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9817459e7d438400800000000000000
+      internalID: 325188804166490270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 7
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dc12abb4b36ecb0800000000000000
+      internalID: -4835111953504285300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 21
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e95ee7838616fba0800000000000000
+      internalID: -6055627894775981596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dragon Road Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 7
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed573341564c3100800000000000000
+      internalID: 89023407474564590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: be3049ea1608c1c488f46337215255aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - MapleStory - Dragon Road Tiles_0: 7386303152212961787
+      PC Computer - MapleStory - Dragon Road Tiles_1: 8183934025063225174
+      PC Computer - MapleStory - Dragon Road Tiles_10: 8684501979391066667
+      PC Computer - MapleStory - Dragon Road Tiles_11: -1343264021001721201
+      PC Computer - MapleStory - Dragon Road Tiles_12: 3875504560756341582
+      PC Computer - MapleStory - Dragon Road Tiles_13: 8058539195208170549
+      PC Computer - MapleStory - Dragon Road Tiles_14: -2254141813920311764
+      PC Computer - MapleStory - Dragon Road Tiles_15: -6062382427742153896
+      PC Computer - MapleStory - Dragon Road Tiles_16: 1787648855893372529
+      PC Computer - MapleStory - Dragon Road Tiles_17: -704207537046620112
+      PC Computer - MapleStory - Dragon Road Tiles_18: -6905515985859702599
+      PC Computer - MapleStory - Dragon Road Tiles_19: -8521407964503063142
+      PC Computer - MapleStory - Dragon Road Tiles_2: -8249869652094276812
+      PC Computer - MapleStory - Dragon Road Tiles_20: 3012405068791317603
+      PC Computer - MapleStory - Dragon Road Tiles_21: -3818799715679127259
+      PC Computer - MapleStory - Dragon Road Tiles_22: -6015243235223822198
+      PC Computer - MapleStory - Dragon Road Tiles_23: 7880789470720063832
+      PC Computer - MapleStory - Dragon Road Tiles_24: 8080215899851832651
+      PC Computer - MapleStory - Dragon Road Tiles_25: -3302998911153378611
+      PC Computer - MapleStory - Dragon Road Tiles_26: -9146948152571939792
+      PC Computer - MapleStory - Dragon Road Tiles_27: 2103247926705996579
+      PC Computer - MapleStory - Dragon Road Tiles_28: 5256494285124552048
+      PC Computer - MapleStory - Dragon Road Tiles_29: 2642132729275709697
+      PC Computer - MapleStory - Dragon Road Tiles_3: -1708860951800711961
+      PC Computer - MapleStory - Dragon Road Tiles_30: 2672579493498879803
+      PC Computer - MapleStory - Dragon Road Tiles_31: 2445333235959380080
+      PC Computer - MapleStory - Dragon Road Tiles_32: -5939048858209971562
+      PC Computer - MapleStory - Dragon Road Tiles_33: -364046370738660431
+      PC Computer - MapleStory - Dragon Road Tiles_34: -634343709725798065
+      PC Computer - MapleStory - Dragon Road Tiles_35: 6258497587707614691
+      PC Computer - MapleStory - Dragon Road Tiles_36: 182924989701695088
+      PC Computer - MapleStory - Dragon Road Tiles_37: -6023055783499501744
+      PC Computer - MapleStory - Dragon Road Tiles_38: 5014674378522733357
+      PC Computer - MapleStory - Dragon Road Tiles_39: 7502210702811702252
+      PC Computer - MapleStory - Dragon Road Tiles_4: -3850864975763131008
+      PC Computer - MapleStory - Dragon Road Tiles_40: -8060709945124845666
+      PC Computer - MapleStory - Dragon Road Tiles_41: 3124472939466046277
+      PC Computer - MapleStory - Dragon Road Tiles_42: -179225861653387016
+      PC Computer - MapleStory - Dragon Road Tiles_43: 368197351347828332
+      PC Computer - MapleStory - Dragon Road Tiles_44: 7061191553876494868
+      PC Computer - MapleStory - Dragon Road Tiles_45: -1962097539840904230
+      PC Computer - MapleStory - Dragon Road Tiles_46: 2902642880186319492
+      PC Computer - MapleStory - Dragon Road Tiles_47: 4301101715387887450
+      PC Computer - MapleStory - Dragon Road Tiles_48: -5413992245800026656
+      PC Computer - MapleStory - Dragon Road Tiles_49: -8884558019687313299
+      PC Computer - MapleStory - Dragon Road Tiles_5: 7491428817967267825
+      PC Computer - MapleStory - Dragon Road Tiles_50: -5248841469613440601
+      PC Computer - MapleStory - Dragon Road Tiles_51: -4128337114988790889
+      PC Computer - MapleStory - Dragon Road Tiles_52: 1832221811685760937
+      PC Computer - MapleStory - Dragon Road Tiles_53: 159161629079157410
+      PC Computer - MapleStory - Dragon Road Tiles_54: 325188804166490270
+      PC Computer - MapleStory - Dragon Road Tiles_55: -4835111953504285300
+      PC Computer - MapleStory - Dragon Road Tiles_56: -6055627894775981596
+      PC Computer - MapleStory - Dragon Road Tiles_57: 89023407474564590
+      PC Computer - MapleStory - Dragon Road Tiles_6: -1842565814353246104
+      PC Computer - MapleStory - Dragon Road Tiles_7: 7907374168912700493
+      PC Computer - MapleStory - Dragon Road Tiles_8: -2986348841773175240
+      PC Computer - MapleStory - Dragon Road Tiles_9: 8833405843148866695
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -103,10 +103,10 @@ TextureImporter:
       name: PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 474
-        width: 508
-        height: 1019
+        x: 128
+        y: 3361
+        width: 128
+        height: 95
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -125,10 +125,10 @@ TextureImporter:
       name: PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_1
       rect:
         serializedVersion: 2
-        x: 520
-        y: 478
-        width: 495
-        height: 1011
+        x: 128
+        y: 3104
+        width: 128
+        height: 95
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,10 +147,10 @@ TextureImporter:
       name: PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_2
       rect:
         serializedVersion: 2
-        x: 1035
-        y: 480
-        width: 490
-        height: 1007
+        x: 0
+        y: 3105
+        width: 128
+        height: 95
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,10 +169,10 @@ TextureImporter:
       name: PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_3
       rect:
         serializedVersion: 2
-        x: 1538
-        y: 482
-        width: 504
-        height: 1012
+        x: 384
+        y: 3105
+        width: 128
+        height: 95
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,8 +193,8 @@ TextureImporter:
         serializedVersion: 2
         x: 2051
         y: 595
-        width: 500
-        height: 900
+        width: 1
+        height: 1
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,8 +215,8 @@ TextureImporter:
         serializedVersion: 2
         x: 2563
         y: 482
-        width: 500
-        height: 1010
+        width: 1
+        height: 1
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,8 +237,8 @@ TextureImporter:
         serializedVersion: 2
         x: 3081
         y: 478
-        width: 498
-        height: 1013
+        width: 1
+        height: 1
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,10 +257,10 @@ TextureImporter:
       name: PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_7
       rect:
         serializedVersion: 2
-        x: 1025
-        y: 2880
-        width: 255
-        height: 128
+        x: 256
+        y: 3233
+        width: 128
+        height: 95
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,9 +302,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 3232
+        y: 3233
         width: 128
-        height: 96
+        height: 95
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,9 +324,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 3232
+        y: 3233
         width: 128
-        height: 96
+        height: 95
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -350,7 +350,7 @@ TextureImporter:
         width: 40
         height: 49
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -372,7 +372,7 @@ TextureImporter:
         width: 48
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -394,7 +394,7 @@ TextureImporter:
         width: 45
         height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -416,7 +416,7 @@ TextureImporter:
         width: 39
         height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -438,7 +438,7 @@ TextureImporter:
         width: 33
         height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -460,7 +460,7 @@ TextureImporter:
         width: 38
         height: 49
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -469,6 +469,94 @@ TextureImporter:
       bones: []
       spriteID: cbb7dc150e2d3fa40a6252a1b4c15dec
       internalID: -469414297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3233
+        width: 128
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a336665358b1d479091baae6a69e54
+      internalID: -1539642021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3361
+        width: 128
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d5653c7bf8403469031dfde1f65101
+      internalID: 137505658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3104
+        width: 128
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38166554120a0244fa7d3c2307acc19f
+      internalID: -812994403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3361
+        width: 128
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62776294b50f1594894d77d89961a703
+      internalID: 636661260
       vertices: []
       indices: 
       edges: []
@@ -496,7 +584,11 @@ TextureImporter:
       PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_14: -1906715159
       PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_15: -1632923295
       PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_16: -469414297
+      PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_17: -1539642021
+      PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_18: 137505658
+      PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_19: -812994403
       PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_2: 1005773825
+      PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_20: 636661260
       PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_3: 1625863357
       PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_4: -605893836
       PC Computer - PlataGO Super Platform Game Maker - Environment Tiles_5: -1601136276
