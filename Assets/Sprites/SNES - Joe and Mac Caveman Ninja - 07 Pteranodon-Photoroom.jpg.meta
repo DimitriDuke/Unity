@@ -1,0 +1,809 @@
+fileFormatVersion: 2
+guid: b1488eb149dd1eb4f855f560430cb337
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2622849531280051493
+    second: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 753
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d4f3390cb366420800000000000000
+      internalID: 2622849531280051493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 600
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fd047661e72474eb2da1d9d0e8ee61
+      internalID: -1391537863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 450
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36731f1f6fd0c741bad18eae57c4576
+      internalID: -1893374669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 291
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b5e3d0f747baa469466b00621449da
+      internalID: -196068670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 139
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb89ed0bae2cef643b0fe8096d0721d1
+      internalID: -1409123851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 757
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e24e90e5d28f54aa150574025598fb
+      internalID: -976598091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 602
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3c73a7e1701a14fbdf557e85496f61
+      internalID: 755198914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 449
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc94e5472685f14583803cea8040f4e
+      internalID: -2075459024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 295
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61fa30d0908a2e49bc0cd0bbc3c2de4
+      internalID: 2050768649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 130
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b7d61e9741de24081bd06bf531e498
+      internalID: -585127816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 759
+        width: 150
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a5f69285b285b428a2df3559556bee
+      internalID: -1010550864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 762
+        width: 150
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591943570128e3f499db13ad00758219
+      internalID: 2046295556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 607
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e937c132a3c404140ba3ef50d826eacc
+      internalID: -2008564735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 453
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1264452e4162a4db7959bec269f8cb
+      internalID: 1994458759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 295
+        width: 147
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407a5a475ac30734ea8866972af8e976
+      internalID: 1932124405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 603
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a4599e3388e2d4196dab6ea5680917
+      internalID: 2004794069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 447
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b444494c670b64c9c280c33c44bda0
+      internalID: -842214400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 293
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8145d9247bb71634294434574da3b5b1
+      internalID: 827301449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 148
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762fe7e90982b6846a35fb35065ce666
+      internalID: -1654784875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 136
+        width: 146
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc27f56df6525824a967ad916b9d2410
+      internalID: -1846792974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 756
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e691cff4d269b94f8fcbd8af3f79c59
+      internalID: 613126416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 602
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba24080973181a943a73b6ac87bf036b
+      internalID: -498040025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 448
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaf8da8f0f625644a4035999956a332
+      internalID: -395638245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 296
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ae66c53ec6fd04489f53fde8ed5e7f
+      internalID: -9190418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 135
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9159ba6f197974742ac1ad2d49309972
+      internalID: 355600698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 761
+        width: 145
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab7a28cd5340de47a09a956af0ebd68
+      internalID: 729204541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 605
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e37f0204fb007b419a10f70a220d6c0
+      internalID: -977225519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 460
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2a07ddb0e4f424da7c0b46f96fc68a
+      internalID: 1134460720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 295
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5602832c7ee30c949b66c2fbe2dc59d9
+      internalID: 665155685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 140
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faca227078f51847994186d1f9d866c
+      internalID: -1911739386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e00d5ecb3e5b6a4b98f754fb192d43a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_1: -1391537863
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_10: -1010550864
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_11: 2046295556
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_12: -2008564735
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_13: 1994458759
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_14: 1932124405
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_15: 2004794069
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_16: -842214400
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_17: 827301449
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_18: -1654784875
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_19: -1846792974
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_2: -1893374669
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_20: 613126416
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_21: -498040025
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_22: -395638245
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_23: -9190418
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_24: 355600698
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_25: 729204541
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_26: -977225519
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_27: 1134460720
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_28: 665155685
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_29: -1911739386
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_3: -196068670
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_4: -1409123851
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_5: -976598091
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_6: 755198914
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_7: -2075459024
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_8: 2050768649
+      SNES - Joe and Mac Caveman Ninja - 07 Pteranodon-Photoroom_9: -585127816
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 0f1a5492657d810459f417e4b08f9c1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4418115340051881891
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_0
+  - first:
+      213: 6055817289897646563
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_1
+  - first:
+      213: -8110445354598321102
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_2
+  - first:
+      213: 1226867481287036673
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_3
+  - first:
+      213: -1279739282044425536
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_4
+  - first:
+      213: -2465169792933094495
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_5
+  - first:
+      213: -3139266248003944032
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_6
+  - first:
+      213: -8209313263025163675
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_7
+  - first:
+      213: -2987871783801989091
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_8
+  - first:
+      213: 5190458373150293971
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_9
+  - first:
+      213: 2187787272294222402
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_10
+  - first:
+      213: -8936794904164345635
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_11
+  - first:
+      213: 8520581872962629672
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_12
+  - first:
+      213: 9219605145396004929
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_13
+  - first:
+      213: 2258091615063066488
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_14
+  - first:
+      213: -1691367276372452238
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_15
+  - first:
+      213: 7559584805679683428
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_16
+  - first:
+      213: -8132945988794685781
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_17
+  - first:
+      213: -1345026262775936753
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_18
+  - first:
+      213: 830848087130847947
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_19
+  - first:
+      213: -8113139157890018727
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_20
+  - first:
+      213: 1029234541726901590
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_21
+  - first:
+      213: 291478170877961956
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_22
+  - first:
+      213: 5235205549166662754
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_23
+  - first:
+      213: 7576315913676972565
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_24
+  - first:
+      213: 9100153080510844267
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_25
+  - first:
+      213: 6373425376254180945
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_26
+  - first:
+      213: 8409874919294624711
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_27
+  - first:
+      213: -6860319382817732415
+    second: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 463
+        width: 91
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af1f7c5e7c405d30800000000000000
+      internalID: 4418115340051881891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 410
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e994057db59a0450800000000000000
+      internalID: 6055817289897646563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 397
+        width: 53
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23433f4cbe8e17f80800000000000000
+      internalID: -8110445354598321102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 410
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f87985975b60110800000000000000
+      internalID: 1226867481287036673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 410
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cae0a047e37d3ee0800000000000000
+      internalID: -1279739282044425536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 405
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab13356225f9cdd0800000000000000
+      internalID: -2465169792933094495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 331
+        width: 87
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a10a50eaf51f64d0800000000000000
+      internalID: -3139266248003944032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 329
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5627b730519a21e80800000000000000
+      internalID: -8209313263025163675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 329
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18d11c6172f886d0800000000000000
+      internalID: -2987871783801989091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 218
+        width: 102
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df3311e366380840800000000000000
+      internalID: 5190458373150293971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 338
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ac739cee49c5e10800000000000000
+      internalID: 2187787272294222402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 331
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd853c242602af380800000000000000
+      internalID: -8936794904164345635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 166
+        width: 141
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820f199c1103f3670800000000000000
+      internalID: 8520581872962629672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 317
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14841bc380e92ff70800000000000000
+      internalID: 9219605145396004929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 249
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8774f1a2c5a565f10800000000000000
+      internalID: 2258091615063066488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 235
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c99136c6e0788e0800000000000000
+      internalID: -1691367276372452238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 165
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4675aff045a09e860800000000000000
+      internalID: 7559584805679683428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 169
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba66470a6b8f12f80800000000000000
+      internalID: -8132945988794685781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 169
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f094ba18db1855de0800000000000000
+      internalID: -1345026262775936753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 85
+        width: 104
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca3fb7eee3c78b00800000000000000
+      internalID: 830848087130847947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 157
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95257a0dbe6586f80800000000000000
+      internalID: -8113139157890018727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 73
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655a132dc53984e00800000000000000
+      internalID: 1029234541726901590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 86
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e626f22ad98b0400800000000000000
+      internalID: 291478170877961956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 17
+        width: 159
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2649b3ca5bf27a840800000000000000
+      internalID: 5235205549166662754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 8
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512ead4be2b742960800000000000000
+      internalID: 7576315913676972565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 20
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d8685130d3a4e70800000000000000
+      internalID: 9100153080510844267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 9
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e3712ac94f27850800000000000000
+      internalID: 6373425376254180945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3e5028ea0e5b470800000000000000
+      internalID: 8409874919294624711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 20
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c80c6d6edf3bc0a0800000000000000
+      internalID: -6860319382817732415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_0: 4418115340051881891
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_1: 6055817289897646563
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_10: 2187787272294222402
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_11: -8936794904164345635
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_12: 8520581872962629672
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_13: 9219605145396004929
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_14: 2258091615063066488
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_15: -1691367276372452238
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_16: 7559584805679683428
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_17: -8132945988794685781
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_18: -1345026262775936753
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_19: 830848087130847947
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_2: -8110445354598321102
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_20: -8113139157890018727
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_21: 1029234541726901590
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_22: 291478170877961956
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_23: 5235205549166662754
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_24: 7576315913676972565
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_25: 9100153080510844267
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_26: 6373425376254180945
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_27: 8409874919294624711
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_28: -6860319382817732415
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_3: 1226867481287036673
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_4: -1279739282044425536
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_5: -2465169792933094495
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_6: -3139266248003944032
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_7: -8209313263025163675
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_8: -2987871783801989091
+      Neo_Geo_NGCD_-_Top_Hunter_Roddy___Cathy_-_Neanderthal-removebg-preview_9: 5190458373150293971
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
